@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Downcast.UserManager.Cryptography\Downcast.UserManager.Cryptography.csproj" />
+        <ProjectReference Include="..\Downcast.UserManager.Repository\Downcast.UserManager.Repository.csproj" />
+    </ItemGroup>
+
+</Project>
