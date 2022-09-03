@@ -1,6 +1,6 @@
 using Downcast.ArticleManager.Repository.Domain.Enums;
 
-namespace Downcast.ArticleManager.Repository.Filters;
+namespace Downcast.ArticleManager.Repository.InputModels;
 
 internal class ArticlesFilter
 {
